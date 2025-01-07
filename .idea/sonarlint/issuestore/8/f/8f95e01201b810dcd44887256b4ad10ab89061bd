@@ -1,0 +1,37 @@
+
+b	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(ÄÊĞ88®˜®â¾1
+c	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ½”8®˜®â¾1
+M
+java:S3740Ú"/Provide the parametrized type for this generic.(ˆ˜‚ã8¯˜®â¾1
+{
+java:S1488«"]Immediately return this expression instead of assigning it to the temporary variable "count".(ıÿî¢8±˜®â¾1
+
+java:S1488Ì"^Immediately return this expression instead of assigning it to the temporary variable "remove".(²ĞÉàıÿÿÿÿ8±˜®â¾1
+d
+java:S2259ç"FA "NullPointerException" could be thrown; "isMember" is nullable here.(˜è©ô8ê˜®â¾1
+a
+java:S2259Œ"CA "NullPointerException" could be thrown; "count" is nullable here.(¿¡‚ü8é˜®â¾1
+e
+java:S2259Í"BA "NullPointerException" could be thrown; "size" is nullable here.(Ìéƒıÿÿÿÿ8é˜®â¾1
+e
+java:S2259¸"GA "NullPointerException" could be thrown; "increment" is nullable here.(—È…î8ê˜®â¾1
+d
+java:S2259÷"AA "NullPointerException" could be thrown; "add" is nullable here.(Ä™‹ûÿÿÿÿ8ê˜®â¾1
+e
+java:S2259ª"GA "NullPointerException" could be thrown; "increment" is nullable here.(”ÈÊå8é˜®â¾1
+`
+java:S2259H"DA "NullPointerException" could be thrown; "hasKey" is nullable here.(òè8é˜®â¾1
+e
+java:S2259›"BA "NullPointerException" could be thrown; "size" is nullable here.(êïïŞúÿÿÿÿ8ê˜®â¾1
+a
+java:S2259¬"CA "NullPointerException" could be thrown; "count" is nullable here.(¿¡‚ü8ê˜®â¾1
+b
+java:S2259Í"DA "NullPointerException" could be thrown; "remove" is nullable here.(öŠ€°8é˜®â¾1
+i
+java:S2259="GA "NullPointerException" could be thrown; "getExpire" is nullable here.(¿âÖìşÿÿÿÿ8é˜®â¾1
+v
+java:S1602™"SRemove useless curly braces around statement and then remove useless return keyword(¨ÑôŸşÿÿÿÿ8ú˜®â¾1
+I
+java:S1168Ú"+Return an empty collection instead of null.(¥¹ï8Œ™®â¾1
+I
+java:S1168Á"+Return an empty collection instead of null.(¥¹ï8”™®â¾1

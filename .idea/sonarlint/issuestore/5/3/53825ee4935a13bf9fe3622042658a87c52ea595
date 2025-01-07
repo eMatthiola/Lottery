@@ -1,0 +1,11 @@
+
+g	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(äíàûÿÿÿÿ8½Ğô¦¶1
+b	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(³öØÚ8£å›Ï¶1
+A
+java:S2629E"$Invoke method(s) only conditionally.(öûÜ8¿Ğô¦¶1
+A
+java:S2629K"$Invoke method(s) only conditionally.(Ñˆ8¿Ğô¦¶1
+A
+java:S2629i"$Invoke method(s) only conditionally.(¾Èç‡8¿Ğô¦¶1
+
+java:S11304"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(äíàûÿÿÿÿ8öĞô¦¶1

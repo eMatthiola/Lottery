@@ -1,0 +1,49 @@
+
+^
+java:S3066="<Lower the visibility of this setter or remove it altogether.(¹ØËÁÿÿÿÿÿ8íÕıõ·1
+Y
+java:S3066E"<Lower the visibility of this setter or remove it altogether.(Í¼³Ê8îÕıõ·1
+^
+java:S3066a"<Lower the visibility of this setter or remove it altogether.(¹ØËÁÿÿÿÿÿ8îÕıõ·1
+Y
+java:S3066i"<Lower the visibility of this setter or remove it altogether.(Í¼³Ê8îÕıõ·1
+v	java:S115r"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­‹±¡8ïÕıõ·1
+{	java:S115s"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›ÛÅôúÿÿÿÿ8ïÕıõ·1
+{	java:S115t"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Í°·“şÿÿÿÿ8ïÕıõ·1
+_
+java:S3066ƒ"<Lower the visibility of this setter or remove it altogether.(¹ØËÁÿÿÿÿÿ8ïÕıõ·1
+Z
+java:S3066‹"<Lower the visibility of this setter or remove it altogether.(Í¼³Ê8ïÕıõ·1
+_
+java:S3066°"<Lower the visibility of this setter or remove it altogether.(¹ØËÁÿÿÿÿÿ8ğÕıõ·1
+Z
+java:S3066¸"<Lower the visibility of this setter or remove it altogether.(Í¼³Ê8ğÕıõ·1
+_
+java:S3066Û"<Lower the visibility of this setter or remove it altogether.(¹ØËÁÿÿÿÿÿ8ñÕıõ·1
+Z
+java:S3066ã"<Lower the visibility of this setter or remove it altogether.(Í¼³Ê8ñÕıõ·1
+w	java:S115ê"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Àæº’8òÕıõ·1
+v	java:S115ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼à±m8òÕıõ·1
+w	java:S115î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›™õ8òÕıõ·1
+_
+java:S3066†"<Lower the visibility of this setter or remove it altogether.(¹ØËÁÿÿÿÿÿ8òÕıõ·1
+Z
+java:S3066"<Lower the visibility of this setter or remove it altogether.(Í¼³Ê8òÕıõ·1
+X
+java:S1118–":Add a private constructor to hide the implicit public one.(ÀÑÄ¤8ôÕıõ·1
+]
+java:S1118¡":Add a private constructor to hide the implicit public one.(úïÙ°ıÿÿÿÿ8ôÕıõ·1
+X
+java:S1118µ":Add a private constructor to hide the implicit public one.(½÷”ğ8õÕıõ·1
+_
+java:S3066Ğ"<Lower the visibility of this setter or remove it altogether.(¹ØËÁÿÿÿÿÿ8õÕıõ·1
+Z
+java:S3066Ø"<Lower the visibility of this setter or remove it altogether.(Í¼³Ê8õÕıõ·1
+_
+java:S3066ò"<Lower the visibility of this setter or remove it altogether.(¹ØËÁÿÿÿÿÿ8öÕıõ·1
+Z
+java:S3066ú"<Lower the visibility of this setter or remove it altogether.(Í¼³Ê8öÕıõ·1
+]
+java:S1118€":Add a private constructor to hide the implicit public one.(•‚ôïÿÿÿÿÿ8÷Õıõ·1
+p	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô…©©ûÿÿÿÿ8÷Õıõ·1
+p	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¢·äûÿÿÿÿ8÷Õıõ·1
