@@ -185,7 +185,7 @@ public class ActivityRepository implements IActivityRepository {
     @Override
     public ActivityInfoLimitPageRich queryActivityInfoLimitPage(ActivityInfoLimitPageReq req) {
 
-        //查询活动分页数据数量
+        //查询活动分页数据数量Queries the amount of active page data
         Long count = activityDao.queryActivityInfoCount(req);
 
         //查询活动分页数据列表
