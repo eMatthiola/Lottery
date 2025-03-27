@@ -24,6 +24,8 @@ The distributed lottery system is part of a larger marketing framework, includin
   - Database Sharding
 
 ## Distributed System Design
+![image](https://github.com/user-attachments/assets/8143a099-45a6-46b4-85ad-167e7e3549b7)
+
 The system comprises six major components:
 1. **Lottery**: Core distributed service.
 2. **Lottery-API**: Gateway API for H5 and WeChat platforms.
