@@ -31,6 +31,7 @@ The system comprises six major components:
 4. **Lottery-ERP**: Back-end operations system for activity management.
 5. **DB-Router**: Database sharding and routing component.
 6. **Lottery-Test**: Validation and testing system.
+![1743097013086](https://github.com/user-attachments/assets/adafa07c-ac9d-44ba-bf6a-2d8a7813c8b3)
 
 ## Getting Started
 1. Clone the repository:
