@@ -1,7 +1,6 @@
 # Distributed Lottery System for High-Concurrency Marketing Activities
 
 ## Project Highlights
-- Handles **8k TPS** and **80k QPS** across distributed systems.
 - Supports **real-time draws, prize distributions, and activity configurations**.
 - Seamlessly integrates with marketing platforms like WeChat Official Accounts.
 
