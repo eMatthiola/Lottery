@@ -1,7 +1,7 @@
 # Distributed Lottery System for High-Concurrency Marketing Activities
 
 ## Project Highlights
-- Supports **real-time draws, prize distributions, and activity configurations**
+- Supports **real-time draws, prize distributions, and activity configurations** 
 - Seamlessly integrates with marketing platforms like WeChat Official Accounts
 
 ## System Overview
