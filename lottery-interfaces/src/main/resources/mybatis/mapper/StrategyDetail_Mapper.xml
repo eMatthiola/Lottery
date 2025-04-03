@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="cn.itedus.lottery.infrastructure.dao.IStrategyDetailDao">
+<mapper namespace="cn.it.lottery.infrastructure.dao.IStrategyDetailDao">
 
-    <resultMap id="strategyDetailMap" type="cn.itedus.lottery.infrastructure.po.StrategyDetail">
+    <resultMap id="strategyDetailMap" type="cn.it.lottery.infrastructure.po.StrategyDetail">
         <id column="id" property="id"/>
         <result column="strategy_id" property="strategyId"/>
         <result column="award_id" property="awardId"/>
@@ -44,7 +44,7 @@
         WHERE strategy_id = #{strategyId} AND award_surplus_count = 0
     </select>
 
-    <update id="deductStock" parameterType="cn.itedus.lottery.infrastructure.po.StrategyDetail">
+    <update id="deductStock" parameterType="cn.it.lottery.infrastructure.po.StrategyDetail">
         UPDATE strategy_detail SET award_surplus_count = award_surplus_count - 1
         WHERE strategy_id = #{strategyId} AND award_id = #{awardId} AND award_surplus_count > 0
     </update>
